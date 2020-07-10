@@ -98,3 +98,4 @@
 - Netflix
 - Prime Video
 - Apple TV+
+- Plex Media Server
