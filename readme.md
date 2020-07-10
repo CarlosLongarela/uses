@@ -6,7 +6,7 @@
   - GeForce GTX 1050 Ti OC Edition 4GB GDDR5
   - Samsung SSD 970 EVO PCI-E NVMe M.2 500 GB (two more SSD and 2TB mechanical disk)
   - Motherboard Gigabyte Aorus X470 Ultra Gaming.
-  - Two monitors BenQ 4K UHD, 27"
+  - Two monitors BenQ 4K UHD, 27" (PD2720U)
   - Mouse MX Master 3
   - Keyboard Logitech Craft
   - Wacom Intuos Pro Small
@@ -24,10 +24,20 @@
 
 - VS Code
   - VS Code extensions and configuration: https://howivscode.com/CarlosLongarela
-- Avoid Native Apps. [As many things as possible as Progressive Web Apps](https://twitter.com/karlhorky/status/1186619271008456705):
-  - All Google things: Gmail, Calendar, Contacts, Maps, Photos
-  - Time tracking
-  - Translation
-  - Project Management
-  - Twitter
-  - Project tracking
+- Local Lightning
+- WSL
+- Git in local and Gitlab, GitHub & Bitbucket
+- LibreOffice
+- Office 365
+- pCloud, OneDrive and Dropbox
+- aText
+- Franz
+- Loom
+- DeepL
+- Grammarly
+- Blackbaze
+- Zoom Pro, SKype
+- Browsers: Edge, Chrome, Firefox, Firefeox developer edition, Vivaldi, Opera, Tor Browser
+- Slack, Asana, Trello
+- ManageWP
+- All Google things: Gmail, Calendar, Contacts, Maps, Photos
