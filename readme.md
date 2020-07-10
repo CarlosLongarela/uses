@@ -25,6 +25,8 @@
 # Software
 
 - VS Code
+  - Font: Fira Code
+  - Theme: Material Theme
   - VS Code extensions and configuration: https://howivscode.com/CarlosLongarela
 - Local Lightning
 - WSL
