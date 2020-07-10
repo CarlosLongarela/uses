@@ -19,6 +19,8 @@
   - NVIDIA® GeForce® GTX 1050 with 4 GB GDDR5
   - Hard Disk PCIe, 512 GB
   - Fingerprint reader
+- iPad Air 2
+- SmartPhone Android Honor View 20 (RAM 8GB, storage 256GB)
 
 # Software
 
@@ -26,18 +28,53 @@
   - VS Code extensions and configuration: https://howivscode.com/CarlosLongarela
 - Local Lightning
 - WSL
-- Git in local and Gitlab, GitHub & Bitbucket
-- LibreOffice
-- Office 365
-- pCloud, OneDrive and Dropbox
+- Source code control
+  - Git for Windows
+  - Sourcetree
+  - Gitlab
+  - GitHub
+  - Bitbucket
+- Databases
+  - HeidiSQL
+  - MySQL Workbench
+- Office
+  - LibreOffice
+  - Office 365
+  - G Suite
+- Adobe Creative Cloud
+  - Photoshop
+  - InDesign
+  - Lightroom
+- Storage
+  - pCloud
+  - OneDrive
+  - Dropbox
+  - Blackbaze (real time backup)
 - aText
 - Franz
 - Loom
-- DeepL
-- Grammarly
-- Blackbaze
-- Zoom Pro, SKype
-- Browsers: Edge, Chrome, Firefox, Firefeox developer edition, Vivaldi, Opera, Tor Browser
-- Slack, Asana, Trello
+- Language Tools
+  - DeepL
+  - Grammarly
+- Browsers
+  - Edge
+  - Chrome
+  - Firefox
+  - Firefeox developer edition
+  - Vivaldi
+  - Opera
+  - Responsively
+  - Tor Browser
+- Comunication
+  - Slack
+  - Zoom Pro
+  - Skype
+  - Telegram
+- Project & Personal management
+  - Asana
+  - Trello
+  - Microsoft Teams
+  - Microsoft To Do
 - ManageWP
 - All Google things: Gmail, Calendar, Contacts, Maps, Photos
+- VPN Unlimited
