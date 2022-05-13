@@ -28,7 +28,7 @@
 - [VS Code](https://code.visualstudio.com/)
   - Font: [Fira Code](https://github.com/tonsky/FiraCode)
   - Theme: [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-  - VS Code extensions and configuration: https://howivscode.com/CarlosLongarela
+  - VS Code extensions and configurations: https://howivscode.com/CarlosLongarela
 - [Local Lightning](https://localwp.com/)
 - [ManageWP](https://managewp.com/)
 - [Ubuntu WSL](https://ubuntu.com/wsl)
