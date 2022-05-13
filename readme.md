@@ -48,6 +48,10 @@
   - InDesign
   - Lightroom
 
+## Video
+- [Vegas Pro 16](https://www.vegascreativesoftware.com/es/vegas-pro/)
+- [Davinci Resolve Studio 18](https://www.blackmagicdesign.com/es/products/davinciresolve/)
+
 ## Office
 - Browsers
   - [Edge](https://www.microsoft.com/es-es/edge)
@@ -73,6 +77,7 @@
   - [Riot](https://about.riot.im/)
 - Project & Personal management
   - [Asana](https://asana.com/)
+  - [Bloo](https://www.bloo.io/)
   - [Trello](https://trello.com/)
   - [Microsoft Teams](https://www.microsoft.com/es-ww/microsoft-365/microsoft-teams/group-chat-software)
   - [Microsoft To Do](https://todo.microsoft.com/tasks/)
@@ -89,14 +94,18 @@
 - [aText](https://www.trankynam.com/atext/)
 - [Greenshot](https://getgreenshot.org/)
 - [Franz](https://meetfranz.com/)
-- [Loom Pro](https://www.loom.com/)
+- [~~Loom Pro~~](https://www.loom.com/)
+- [BerryCast](https://www.berrycast.com/)
 - Language Tools
   - [DeepL](https://www.deepl.com/translator)
   - [Grammarly Premium](https://www.grammarly.com/)
+  - [LanguageTool](https://languagetool.org/)
 
 # Entertainment
 - [Spotify Premium](https://www.spotify.com/)
 - [Netflix](https://www.netflix.com/)
+- [HBOMax](https://www.hbomax.com/)
+- [Disney+](https://www.disneyplus.com/)
 - [Prime Video](https://www.primevideo.com/)
-- [Apple TV+](https://www.apple.com/es/apple-tv-plus/)
+- [~~Apple TV+~~](https://www.apple.com/es/apple-tv-plus/)
 - [Plex Media Server](https://www.plex.tv/es/media-server-downloads/)
